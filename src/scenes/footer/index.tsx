@@ -25,7 +25,7 @@ const Footer = (props: Props) => {
             <p className="my-5">Real no near room ye bred sake if some.</p>
             <p className="my-5">The jay, pig, fox, zebra, and my wolves
         quack!</p>
-            <p>(127) 618-1708</p>
+            <p>(127) 618-178</p>
         </div>
     </div>
   </footer>
