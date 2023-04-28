@@ -63,7 +63,7 @@ const Benefits = ({ setSelectedPage}: Props) => {
                 <p className="my-5 text-sm">
                 Meet expert trainers, at an affordable pricing, 
                 get connected to a community pain was born and I will give you a complete
-                account of the system, and get access to cutting0edge equipment
+                account of the system, and get access to cutting edge equipment
                 </p>
             </motion.div>
 
