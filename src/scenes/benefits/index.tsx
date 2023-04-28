@@ -63,7 +63,7 @@ const Benefits = ({ setSelectedPage}: Props) => {
                 <p className="my-5 text-sm">
                 Meet expert trainers how all this mistaken idea of denouncing
                 pleasure and praising pain was born and I will give you a complete
-                account of the system, and expound the
+                account of the system, and get access to cutting0edge equipment
                 </p>
             </motion.div>
 
