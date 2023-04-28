@@ -58,10 +58,10 @@ const Benefits = ({ setSelectedPage}: Props) => {
                 }}
             >
                 <HText>
-                    MORE THAN JUST A GYM.
+                    MORE THAN JUST A  GYM. 
                 </HText>
                 <p className="my-5 text-sm">
-                I must explain to you how all this mistaken idea of denouncing
+                Meet expert trainers how all this mistaken idea of denouncing
                 pleasure and praising pain was born and I will give you a complete
                 account of the system, and expound the
                 </p>
