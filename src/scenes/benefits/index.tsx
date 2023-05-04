@@ -27,7 +27,7 @@ const benefits: Array<BenefitType> = [
     {
         icon: <UserGroupIcon className="h-6 w-6" />,
         title: "Delta Team Tango B Copy",
-        description: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular.",
+        description: "Looking for a gym that's more than just a place to work out? Look no further! Our gym is a community of like-minded individuals who share a passion for health and wellness. With a supportive and encouraging environment, you'll be inspired to push yourself to new heights and achieve your fitness goals.",
     },
     {
         icon: <AcademicCapIcon className="h-6 w-6" />,
