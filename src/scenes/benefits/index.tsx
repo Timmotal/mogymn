@@ -32,7 +32,7 @@ const benefits: Array<BenefitType> = [
     {
         icon: <AcademicCapIcon className="h-6 w-6" />,
         title: "Exclusivity and Integrity",
-        description: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.",
+        description: "At our gym, we believe that fitness should be fun and rewarding. That's why we offer a wide variety of classes and programs to suit every interest and fitness level. From high-energy group fitness classes to one-on-one training sessions with certified personal trainers, we're committed to helping you reach your full potential.",
     },
 ]
 
