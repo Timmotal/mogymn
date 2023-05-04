@@ -22,7 +22,7 @@ const benefits: Array<BenefitType> = [
     {
         icon: <HomeModernIcon className="h-6 w-6" />,
         title: "State of the Art Facilities",
-        description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+        description: "Get in shape and feel great with our state-of-the-art gym equipment and expert personal trainers. Whether you're a beginner or a fitness enthusiast, we have everything you need to achieve your health and wellness goals. Join our community today and start your fitness journey!",
     },
     {
         icon: <UserGroupIcon className="h-6 w-6" />,
