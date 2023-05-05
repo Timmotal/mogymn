@@ -56,7 +56,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
                 demoralized by the charms of pleasure of the moment, so blinded
                 by desire, that they cannot foresee
             </p>
-        </motion.div>
+        </motion.div>ff
 
         {/* FORM & IMAGE */}
         <div className="mt-10 justify-between gap-8 md:flex">
