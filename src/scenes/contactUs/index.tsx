@@ -49,7 +49,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             className="md:w-3/5"
         >
             <HText>
-                <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE
+                <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE & BECOME AESTHETIC
             </HText>
             <p className="my-5">
                 Righteous indignation and dislike men who are so beguiled and
