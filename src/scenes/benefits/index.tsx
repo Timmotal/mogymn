@@ -63,7 +63,7 @@ const Benefits = ({ setSelectedPage}: Props) => {
                 <p className="my-5 text-sm">
                 Meet expert trainers, at an affordable pricing, 
                 get connected to a community, get healthy & aesthetic greek body
-                account of the system, and get access to cutting edge equipment
+                account of the system, and get access to cutting edge equipment 
                 </p>
             </motion.div>
 
