@@ -50,6 +50,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
         >
             <HText>
                 <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE & BECOME AESTHETIC
+                git commit -am '
             </HText>
             <p className="my-5">
                 Righteous indignation and dislike men who are so beguiled and
