@@ -53,7 +53,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
                 
             </HText>
             <p className="my-5">
-                
+                Do you want to have a greek body?
                 demoralized by the charms of pleasure of the moment, so blinded
                 by desire, that they cannot foresee
             </p>
