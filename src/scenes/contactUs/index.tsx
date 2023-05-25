@@ -49,11 +49,11 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             className="md:w-3/5"
         >
             <HText>
-                <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE & BECOME AESTHETIC
+                <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE & MAKE YOUR AESTHETIC
                 
             </HText>
             <p className="my-5">
-                Righteous indignation and dislike men who are so beguiled and
+                
                 demoralized by the charms of pleasure of the moment, so blinded
                 by desire, that they cannot foresee
             </p>
