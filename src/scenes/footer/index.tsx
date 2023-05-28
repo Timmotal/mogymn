@@ -12,8 +12,8 @@ const Footer = (props: Props) => {
             Estimating themselves unsatiable imprudence an he at an.
             Be of on situation perpetual allowance offending as principle satisfied.
             </p>
-            <p>&#169; Evogym All Rights Reserved.</p>
-        </div>
+            <p>&#169; Evogymn All Rights Reserved.</p>
+        </div> 
         <div className="mt-16 basis-1/4 md:mt-0">
             <h4 className="font-bold">Links</h4>
             <p className="my-5">Hastily at perhaps as neither or ye fertile tedious visitor.</p>
